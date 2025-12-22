@@ -1,4 +1,4 @@
-<h2>👋 Hello fellas / Como tan muchachos</h2>
+<h2>Hello fellas / Como tan muchachos</h2>
 
 <p>
 I wanted to create a GitHub profile, but in the end I felt it was a waste of time.<br>
@@ -10,7 +10,7 @@ So I decided to keep it simple and just list the languages and frameworks I have
 Así que decidí simplificarlo y solo listar los lenguajes y frameworks con los que he trabajado.
 </p>
 
-<h3>🧰 Languages & Frameworks</h3>
+<h3>Languages & Frameworks</h3>
 
 <ul>
   <li>
@@ -27,7 +27,7 @@ Así que decidí simplificarlo y solo listar los lenguajes y frameworks con los 
   </li>
 </ul>
 
-<h3>🌍 Interests & Experience</h3>
+<h3>Interests & Experience</h3>
 
 <p>
 I have experience and a strong interest mainly in geospatial systems and hydrology.<br>
