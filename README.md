@@ -1,21 +1,35 @@
-Como 'tan muchachos (hello fellas)
+<h2>👋 Hello fellas / Como tan muchachos</h2>
 
-queria hacer un git profile pero a la larga de me hizo una perdida de tiempo (i want to do some kind of git profile but i feel it like a waste of time)
+<p>
+I wanted to create a GitHub profile, but in the end I felt it was a waste of time.<br>
+Quería hacer un GitHub profile, pero a la larga sentí que era una pérdida de tiempo.
+</p>
 
-asi que simplemente pondre una lista con lenguajes y frameworks que he trabajado en cada lenguaje (so i will simplify with a list of languages and frameworks that i have work with)
+<p>
+So I decided to keep it simple and just list the languages and frameworks I have worked with.<br>
+Así que decidí simplificarlo y solo listar los lenguajes y frameworks con los que he trabajado.
+</p>
 
+<h3>🧰 Languages & Frameworks</h3>
 
-lista (list):
+<ul>
+  <li>
+    <strong>Python</strong>
+    <ul>
+      <li>Django</li>
+    </ul>
+  </li>
+  <li>
+    <strong>JavaScript</strong>
+    <ul>
+      <li>React</li>
+    </ul>
+  </li>
+</ul>
 
+<h3>🌍 Interests & Experience</h3>
 
-1 - Python
-
-  1.1 - Django
-
-
-2 - Javascript
-
-  2.1 - React
-
-
-tengo experiencia e interes sobretodo en sistemas geoespaciales o hidrologia (i have experiences and interest on geodesic system's and hydrology)
+<p>
+I have experience and a strong interest mainly in geospatial systems and hydrology.<br>
+Tengo experiencia e interés principalmente en sistemas geoespaciales e hidrología.
+</p>
